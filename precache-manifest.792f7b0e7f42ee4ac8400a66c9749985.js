@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "319eae7f6fb07df7903c27c6a83813bf",
+    "revision": "67ebe4245d1574feba4014f7557538dd",
     "url": "/faridsi.ir/index.html"
   },
   {
-    "revision": "d2b9ea629d808a7f2ce1",
+    "revision": "1fe6e699fdee3bab2c41",
     "url": "/faridsi.ir/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "fdb8c98ac587b90639bb",
+    "revision": "d484244842e3e1ddceb2",
     "url": "/faridsi.ir/static/css/main.e62b2fd0.chunk.css"
   },
   {
-    "revision": "d2b9ea629d808a7f2ce1",
-    "url": "/faridsi.ir/static/js/2.63456781.chunk.js"
+    "revision": "1fe6e699fdee3bab2c41",
+    "url": "/faridsi.ir/static/js/2.25106648.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/faridsi.ir/static/js/2.63456781.chunk.js.LICENSE.txt"
+    "url": "/faridsi.ir/static/js/2.25106648.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdb8c98ac587b90639bb",
-    "url": "/faridsi.ir/static/js/main.4313051f.chunk.js"
+    "revision": "d484244842e3e1ddceb2",
+    "url": "/faridsi.ir/static/js/main.da53fe8f.chunk.js"
   },
   {
-    "revision": "60965dea1e7d5c2a7fd3",
-    "url": "/faridsi.ir/static/js/runtime-main.547eab18.js"
+    "revision": "fae3c8aa351dad8f1cad",
+    "url": "/faridsi.ir/static/js/runtime-main.dbd61ba4.js"
   },
   {
     "revision": "655bed2d732fc58c658534c795502fa9",
