@@ -123,7 +123,7 @@ class Landing extends Component {
               </div>
             </Cell>
             </Grid>
-            <Grid className="container">
+            <Grid className="container center">
             <Cell col={3}>
               <Contact
                 link_name={"09360010251"}
