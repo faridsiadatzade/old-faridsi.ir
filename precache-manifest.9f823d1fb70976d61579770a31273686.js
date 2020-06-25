@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67ebe4245d1574feba4014f7557538dd",
+    "revision": "e7680343eebc4fba2513d7909294d246",
     "url": "/faridsi.ir/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/faridsi.ir/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "d484244842e3e1ddceb2",
+    "revision": "efea303e1f4bee6d8537",
     "url": "/faridsi.ir/static/css/main.e62b2fd0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/faridsi.ir/static/js/2.25106648.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d484244842e3e1ddceb2",
-    "url": "/faridsi.ir/static/js/main.da53fe8f.chunk.js"
+    "revision": "efea303e1f4bee6d8537",
+    "url": "/faridsi.ir/static/js/main.474e5f10.chunk.js"
   },
   {
     "revision": "fae3c8aa351dad8f1cad",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/faridsi.ir/static/css/main.e62b2fd0.chunk.css",
-    "main.js": "/faridsi.ir/static/js/main.da53fe8f.chunk.js",
-    "main.js.map": "/faridsi.ir/static/js/main.da53fe8f.chunk.js.map",
+    "main.js": "/faridsi.ir/static/js/main.474e5f10.chunk.js",
+    "main.js.map": "/faridsi.ir/static/js/main.474e5f10.chunk.js.map",
     "runtime-main.js": "/faridsi.ir/static/js/runtime-main.dbd61ba4.js",
     "runtime-main.js.map": "/faridsi.ir/static/js/runtime-main.dbd61ba4.js.map",
     "static/css/2.e4346227.chunk.css": "/faridsi.ir/static/css/2.e4346227.chunk.css",
     "static/js/2.25106648.chunk.js": "/faridsi.ir/static/js/2.25106648.chunk.js",
     "static/js/2.25106648.chunk.js.map": "/faridsi.ir/static/js/2.25106648.chunk.js.map",
     "index.html": "/faridsi.ir/index.html",
-    "precache-manifest.792f7b0e7f42ee4ac8400a66c9749985.js": "/faridsi.ir/precache-manifest.792f7b0e7f42ee4ac8400a66c9749985.js",
+    "precache-manifest.9f823d1fb70976d61579770a31273686.js": "/faridsi.ir/precache-manifest.9f823d1fb70976d61579770a31273686.js",
     "service-worker.js": "/faridsi.ir/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/faridsi.ir/static/css/2.e4346227.chunk.css.map",
     "static/css/main.e62b2fd0.chunk.css.map": "/faridsi.ir/static/css/main.e62b2fd0.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.25106648.chunk.js",
     "static/css/main.e62b2fd0.chunk.css",
-    "static/js/main.da53fe8f.chunk.js"
+    "static/js/main.474e5f10.chunk.js"
   ]
 }
