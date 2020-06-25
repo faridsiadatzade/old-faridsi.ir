@@ -27,6 +27,8 @@ class Contactpage extends Component {
             link_class={"fa fa-phone"}
           />
         </Cell>
+      </Grid>
+      <Grid className="center">
         <Cell col={3}>
           <Contact
             link_name={"fsiadatzade@gmail.com"}
