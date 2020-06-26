@@ -875,3 +875,15 @@ table th {
       width: 320px !important;
   }
 }
+
+@media only screen and (max-width: 400px){
+  .single_links span {
+    font-size: 13px;
+  }
+  .single_links a i{
+    font-size: 18px;
+  }
+  .card-work{
+    max-width: 320px;
+  }
+}
