@@ -25,7 +25,7 @@ class Projectpage extends Component {
           <Project
           title="Artak"
           cover={ArtakDemo1}
-          text="This project was carried out in the spring of 2019 as a free lance at the request of the CEO of Artak Fars Company."
+          text="This project was carried out in the spring of 2019 as a freelance at the request of the CEO of Artak Fars Company."
           />
         </Cell>
         <Cell col={6}>
@@ -46,7 +46,7 @@ class Projectpage extends Component {
           <Project
           title="FaridSi"
           cover={FaridDemo1}
-          text="This website is being developed using React Framework, which is your first personal experience in using this framework."
+          text="This website is being developed using React Framework, which is my first personal experience in using this framework."
           />
         </Cell>
       </Grid>
